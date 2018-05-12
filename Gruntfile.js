@@ -3,9 +3,8 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-concat');
 
 	
-	//var config = grunt.option('config' || 'config.json');
-	//var con = grunt.file.readJSON(config);
-var config = grunt.file.readJSON(grunt.option('config') || 'config.json')
+	
+	var config = grunt.file.readJSON(grunt.option('config') || 'config.json')
 
 
 	 grunt.initConfig({
