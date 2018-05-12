@@ -1,6 +1,6 @@
 {
 	"buildFolder":"build",
 	"appName": "Second Exam",
-	"pageOneName": "page1",
-	"pageTwoName": "page2"
+	"pageOneName": "pageOne",
+	"pageTwoName": "pageTwo"
 }
