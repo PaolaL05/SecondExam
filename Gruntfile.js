@@ -66,7 +66,7 @@ grunt.registerTask('task2', function(){
 
 
 grunt.registerTask('build',
-		['task1', 'task2', 'generateIndex']);
+		['task1', 'task2', 'generateIndex', 'jasmine']);
 
 
 };
